@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 public class CommentService {
 
   public CommentService(){
-    System.out.println("main 2");
+    System.out.println("main 3");
 
   }
 
