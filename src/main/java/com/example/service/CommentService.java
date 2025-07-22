@@ -8,10 +8,10 @@ import org.springframework.stereotype.Service;
 public class CommentService {
 
   public CommentService(){
-    System.out.println("CommentService instance created");
-    System.out.println("continue on impl on brand");
-    System.out.println("test git rebase");
-    System.out.println("test main rebase v2");
+    System.out.println("feature3");
+    System.out.println("feature2");
+    System.out.println("main 3");
+
   }
 
 }
