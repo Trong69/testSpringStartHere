@@ -9,7 +9,7 @@ public class CommentService {
 
   public CommentService(){
     System.out.println("CommentService instance created");
-    System.out.println("add new feature");
+    System.out.println("continue on impl on brand");
   }
 
 }
